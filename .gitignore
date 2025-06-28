@@ -1,1 +1,13 @@
 u_xt_evolution.gif
+Burger_equation_non_analytic.ipynb
+.gitignore
+Allen_Cahn_PINN.ipynb
+.gitignore
+Burger_shock_FV.ipynb
+burgers.gif
+Burgers.ipynb
+viscous_burgers_dirichlet.ipynb
+Burger_PINN_Output/output.png
+Newton's Cooling/PINN.png
+Burger_PINN_Output/contour.png
+Newton's Cooling/vanilla_NN.png
